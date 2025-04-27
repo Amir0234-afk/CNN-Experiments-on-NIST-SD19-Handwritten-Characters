@@ -1,5 +1,4 @@
-```markdown
-# 🧠 CNN Experiments on NIST SD19 Dataset
+🧠 CNN Experiments on NIST SD19 Dataset
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
@@ -32,7 +31,7 @@ Different CNN configurations are systematically compared to study the impact of:
 
 ### 1. Install Dependencies
 
-```bash
+```
 pip install numpy opencv-python matplotlib seaborn scikit-learn tensorflow
 ```
 
