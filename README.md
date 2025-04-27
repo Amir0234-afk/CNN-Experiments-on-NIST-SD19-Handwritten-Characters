@@ -91,7 +91,7 @@ Each model will output:
 ### Confusion Matrix
 > (Automatically saved as PNG)
 
-![Confusion Matrix Example](example_confusion_matrix.png)
+![Confusion Matrix Example](https://github.com/Amir0234-afk/CNN-Experiments-on-NIST-SD19-Handwritten-Characters/blob/main/images/confusion%20matrix%20example.png)
 
 ### Sample Predictions
 > (Automatically saved as PNG)
