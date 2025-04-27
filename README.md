@@ -55,7 +55,7 @@ by_class/
 ### 3. Run the Script
 
 ```bash
-python your_script_name.py
+python CNN-Experiments-on-NIST-SD19-Handwritten-Characters.py
 ```
 
 All results (plots and text files) will be saved automatically in the script's directory.
