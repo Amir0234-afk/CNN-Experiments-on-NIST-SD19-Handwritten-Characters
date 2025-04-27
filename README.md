@@ -96,7 +96,7 @@ Each model will output:
 ### Sample Predictions
 > (Automatically saved as PNG)
 
-![Sample Predictions Example](example_sample_predictions.png)
+![Sample Predictions Example](https://github.com/Amir0234-afk/CNN-Experiments-on-NIST-SD19-Handwritten-Characters/blob/main/images/sample%20prediction%20example.png)
 
 ---
 
